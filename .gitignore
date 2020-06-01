@@ -11,6 +11,9 @@
 # production
 /build
 
+# RGPD
+/public/tarteaucitron
+
 # misc
 .DS_Store
 .env.local
