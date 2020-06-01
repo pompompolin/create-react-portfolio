@@ -12,7 +12,7 @@
 /build
 
 # RGPD
-/public/tarteaucitron
+tarteaucitron/
 
 # misc
 .DS_Store
