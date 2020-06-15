@@ -197,22 +197,6 @@ a:hover {
   transition: all 0.5s;
 }
 
-#dark-mode-button-sun {
-  position: absolute;
-  top: 1px;
-  right: 2px;
-  display: block;
-  transition: all 1s;
-}
-
-#dark-mode-button-moon {
-  position: absolute;
-  top: 1px;
-  left: 2px;
-  display: none;
-  transition: all 1s;
-}
-
 /* FOOTER */
 
 .footer-links {
